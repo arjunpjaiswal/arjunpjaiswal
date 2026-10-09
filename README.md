@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjunpjaiswal/arjunpjaiswal/output/github-snake-dark.svg" />
+    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/arjunpjaiswal/arjunpjaiswal/output/github-snake.svg" />
+  </picture>
+</p>
+
 <h1 align="center">Hey, I'm Arjun 👋</h1>
 
 <p align="center">
