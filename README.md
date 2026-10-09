@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Arjun 👋</h1>
 
-<!--
-**arjunpjaiswal/arjunpjaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&lines=Final-year+IT+student+at+RCOEM;Java+%2B+Spring+Boot+backend+dev;I+build+things+to+learn+how+they+work" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a final-year B.Tech IT student at RCOEM, Nagpur (graduating 2027). Java is my main language, and I mostly build backend systems with Spring Boot. I learn best by building things from scratch, so most of my projects are me taking something apart and rebuilding it.
+
+I'm also the Training & Placement Coordinator for the IT department at RCOEM's CDPC.
+
+## What I'm working on
+
+- 🔍 **GSearch**: a mini search engine with a multithreaded crawler, a custom inverted index with TF-IDF ranking, and AI summaries
+- 🧮 **SQL Query Builder**: a Spring Boot backend that parses and executes SQL queries
+- 💬 **Quora-style API**: Spring Boot + JPA backend with nested comments, a feed, and a recommendation engine
+- 🏫 **PlacementOS**: my final year project, an AI-assisted placement and internship management system (Spring Boot + React)
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,react,tailwind,python,js,html,css,git,gradle" />
+</p>
+
+## Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [GSearch](https://github.com/arjunpjaiswal/Gsearch) | Search engine with a 10-thread BFS crawler, TF-IDF ranking, paginated REST API, RAG-style summaries | Java 17, Spring Boot 3, MySQL, Jsoup, Groq API |
+| [SQL Query Builder](https://github.com/arjunpjaiswal/REPO-NAME) | Parses and executes SQL queries | Java, Spring Boot |
+| [Quora API](https://github.com/arjunpjaiswal/REPO-NAME) | Q&A backend with feed, notifications, recommendations | Java 17, Spring Boot, JPA/Hibernate, MySQL |
+| [PlacementOS](https://github.com/arjunpjaiswal/REPO-NAME) | Resume/JD parsing, weighted candidate ranking, internship approval workflow | Spring Boot, React, MySQL, Groq API |
+
+## GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arjunpjaiswal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunpjaiswal&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arjunpjaiswal&theme=tokyonight&hide_border=true" />
+</p>
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-pankaj-jaiswal-b297752a2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjunpjaiswal)
