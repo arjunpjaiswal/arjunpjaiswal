@@ -1,9 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjunpjaiswal/arjunpjaiswal/output/github-snake-dark.svg" />
-    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/arjunpjaiswal/arjunpjaiswal/output/github-snake.svg" />
-  </picture>
-</p>
+
 
 <h1 align="center">Hey, I'm Arjun 👋</h1>
 
@@ -40,7 +35,12 @@ I'm also the Training & Placement Coordinator for the IT department at RCOEM's C
 | [PlacementOS](https://github.com/arjunpjaiswal/REPO-NAME) | Resume/JD parsing, weighted candidate ranking, internship approval workflow | Spring Boot, React, MySQL, Groq API |
 
 ## GitHub stats
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjunpjaiswal/arjunpjaiswal/output/github-snake-dark.svg" />
+    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/arjunpjaiswal/arjunpjaiswal/output/github-snake.svg" />
+  </picture>
+</p>
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=arjunpjaiswal&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunpjaiswal&layout=compact&theme=tokyonight&hide_border=true" />
