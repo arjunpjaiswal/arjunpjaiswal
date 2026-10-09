@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hey, I'm Arjun 👋</h1>
 
 <p align="center">
@@ -15,9 +13,9 @@ I'm also the Training & Placement Coordinator for the IT department at RCOEM's C
 ## What I'm working on
 
 - 🔍 **GSearch**: a mini search engine with a multithreaded crawler, a custom inverted index with TF-IDF ranking, and AI summaries
-- 🧮 **SQL Query Builder**: a Spring Boot backend that parses and executes SQL queries
+- 🧮 **SQL Query Builder**: a fluent SQL builder library for Java (Builder pattern + JDBC), published on JitPack
 - 💬 **Quora-style API**: Spring Boot + JPA backend with nested comments, a feed, and a recommendation engine
-- 🏫 **PlacementOS**: my final year project, an AI-assisted placement and internship management system (Spring Boot + React)
+- 🏫 **PlacementOS**: my final year project, an AI-assisted placement and internship management system
 
 ## Tech stack
 
@@ -29,18 +27,20 @@ I'm also the Training & Placement Coordinator for the IT department at RCOEM's C
 
 | Project | What it does | Stack |
 |---|---|---|
-| [GSearch](https://github.com/arjunpjaiswal/Gsearch) | Search engine with a 10-thread BFS crawler, TF-IDF ranking, paginated REST API, RAG-style summaries | Java 17, Spring Boot 3, MySQL, Jsoup, Groq API |
-| [SQL Query Builder](https://github.com/arjunpjaiswal/REPO-NAME) | Parses and executes SQL queries | Java, Spring Boot |
-| [Quora API](https://github.com/arjunpjaiswal/REPO-NAME) | Q&A backend with feed, notifications, recommendations | Java 17, Spring Boot, JPA/Hibernate, MySQL |
-| [PlacementOS](https://github.com/arjunpjaiswal/REPO-NAME) | Resume/JD parsing, weighted candidate ranking, internship approval workflow | Spring Boot, React, MySQL, Groq API |
+| [GSearch](https://github.com/arjunpjaiswal/GSearch) ([live demo](https://gsearch-19c9.onrender.com)) | Search engine built from scratch: 10-thread BFS crawler, custom inverted index, TF-IDF ranking, paginated REST API, RAG-style AI summaries | Java 17, Spring Boot 3, MySQL, Jsoup, Groq API |
+| [SQL Query Builder](https://github.com/arjunpjaiswal/sql-querybuilder-lib) | Fluent SQL builder library with JDBC execution, transactions, joins and aggregations. Install it via JitPack, 43 unit tests | Java 17, JDBC, MySQL, Maven, JUnit 5 |
+| [Quora API](https://github.com/arjunpjaiswal/quora-api) | Q&A backend with nested comments, likes, follows, feed and recommendations | Java 17, Spring Boot, JPA/Hibernate, MySQL, Gradle |
+| [PlacementOS](https://github.com/arjunpjaiswal/PlacementOS) | Final year project: AI-assisted resume/JD parsing, weighted candidate ranking, and an internship approval workflow | Spring Boot, React, MySQL, Groq API |
 
-## GitHub stats
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjunpjaiswal/arjunpjaiswal/output/github-snake-dark.svg" />
     <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/arjunpjaiswal/arjunpjaiswal/output/github-snake.svg" />
   </picture>
 </p>
+
+## GitHub stats
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=arjunpjaiswal&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunpjaiswal&layout=compact&theme=tokyonight&hide_border=true" />
